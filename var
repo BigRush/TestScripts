@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(var1=hello ; echo $var1 ; echo $(var2='my name is tom' ; echo $var2))
